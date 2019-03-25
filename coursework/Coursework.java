@@ -98,20 +98,7 @@ public class Coursework extends JFrame implements ActionListener, KeyListener {
         JMenuBar menuBar = new JMenuBar();
         JMenu note = new JMenu();
 
-//        note = new JMenu("Note");
-//        note.setToolTipText("Note tasks");
-//        note.setFont(fnt);
-//
-//        note.add(makeMenuItem("New", "NewNote", "Create a new note.", fnt));
-//        note.addSeparator();
-//        note.add(makeMenuItem("Object Orientated Programming", "NewNote", "Create a new note.", fnt));
-//        note.addSeparator();
-//        note.add(makeMenuItem("Smart Systems", "NewNote", "Create a new note.", fnt));
-//        note.addSeparator();
-//        note.add(makeMenuItem("Close", "Close", "Clear the current note.", fnt));
-//
-//        menuBar.add(note);
-//        menuBar.add(makeMenuItem("Exit", "Exit", "Close this program", fnt));
+
  
 
         for (String crse : course) {
